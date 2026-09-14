@@ -1,9 +1,12 @@
-<!-- Animated Banner (Aesthetic futuristic typing GIF) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Top Banner -->
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Animation" width="100%">
+</div>
 
 <!-- Header and Typing Animation -->
+<br>
 <h1 align="center">Hi there, I'm Sumit Sharma 👋</h1>
-<h3 align="center">Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Tech & IoT Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,7 +16,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sumitxcode&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- Connect With Me Badges -->
@@ -64,8 +67,8 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitxcode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitxcode&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <br>
